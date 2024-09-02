@@ -4,6 +4,5 @@
 
 ## 使用技術　　
 
-- CloudFlare Pages
 - HTML
 - CSS
